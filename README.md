@@ -1,2 +1,2 @@
-# booking-website
+# Bus-booking-website
 my project of bluebus
